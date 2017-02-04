@@ -4,6 +4,8 @@ Completely random bug. Apple doesn't know about it (yet, 04 Feb 17).
 
 Also `geod` comes straight back up after the crash.
 
+Details on [the Medium post](https://medium.com/@theninjaprawn/breaking-ios-xpc-cfe2c3083c87).
+
 ---
 
 PoC code in `geod_dos.m`
